@@ -524,7 +524,7 @@ textarea {
 	outline: 2px solid var(--color-orange); 
 }
 .section-work__button:active {
-	padding: 5px; 
+	padding: 0;
 	border: 2px solid transparent; 
 	color: var(--color-active); 
 }
